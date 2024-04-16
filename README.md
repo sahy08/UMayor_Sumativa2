@@ -1,3 +1,4 @@
 # flutter_umayor
 
-A new Flutter project.
+Evaluación sumativa 2. Proyecto flutter - Web UMayor.
+https://www.umayor.cl/um/santiago-campus
